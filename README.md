@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caelansar&layout=compact&langs_count=4&hide=javascript,html,css,makefile"/>
+
 <!--
 **caelansar/caelansar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
