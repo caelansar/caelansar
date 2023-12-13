@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+
+<a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=caelansar&theme=dark&background=000000"></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caelansar&layout=compact&langs_count=4&hide=javascript,html,css,makefile"/>
 
